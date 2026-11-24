@@ -1,6 +1,6 @@
 <!-- CYBERPUNK PROFILE — upload the banner to assets/cyberpunk-banner.png -->
 <p align="center">
-  <img src="assets/cyberpunk-banner.png" alt="Ishika Lakshkar — Aspiring AI Engineer" width="100%" />
+ <img src="ishika_cyberpunk_profile/assets/cyberpunk-banner.png" alt="Ishika Lakshkar — Aspiring AI Engineer" width="100%" />
 </p>
 <h1 align="center">ISHIKA LAKSHKAR</h1>
 <h3 align="center">⚡ ASPIRING AI ENGINEER · GENERATIVE AI · MACHINE LEARNING ⚡</h3>
