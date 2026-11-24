@@ -1,81 +1,85 @@
-# Ishika Lakshkar
+<!-- CYBERPUNK PROFILE — upload the banner to assets/cyberpunk-banner.png --><p align="center">
+  <img src="assets/cyberpunk-banner.png" alt="Ishika Lakshkar — Aspiring AI Engineer" width="100%" />
+</p><h1 align="center">ISHIKA LAKSHKAR</h1>
+<h3 align="center">⚡ ASPIRING AI ENGINEER · GENERATIVE AI · MACHINE LEARNING ⚡</h3><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=C084FC&center=true&vCenter=true&width=720&lines=Building+intelligent+applications;Exploring+LLMs%2C+RAG+%26+AI+agents;Turning+ideas+into+useful+AI+solutions;Build+%E2%80%A2+Learn+%E2%80%A2+Innovate" alt="Animated introduction" />
+</p><p align="center">
+  <a href="https://www.linkedin.com/in/ishika-lakshkar-a54bba3a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ishika357"><img src="https://img.shields.io/badge/GitHub-Explore-1F1B2E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>◈ SYSTEM PROFILE
+Curious mind. Builder mindset. Focused on practical AI.
 
-<h3 align="center">Aspiring AI Engineer | Generative AI | Machine Learning</h3>
-
+I'm a final-year B.Tech Computer Science and Engineering student specializing in Artificial Intelligence. I'm learning to design and build useful AI-powered applications, with a growing focus on Generative AI, language models, and intelligent workflows.
+- 🧠 Exploring AI, Machine Learning, NLP, and LLM applications
+- 🛠️ Learning by building, testing, debugging, and improving projects
+- 🔭 Interested in RAG, AI agents, and practical AI engineering
+- 🌌 Goal: turn concepts into reliable, real-world applications
+◈ TECH STACK
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Applications;Exploring+Generative+AI+%26+LLMs;Turning+Ideas+Into+AI+Solutions" />
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode&theme=dark" alt="Python, Flask, SQL, Git, GitHub and VS Code" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative_AI-A855F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-C084FC?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square" />
+</p>◈ FEATURED BUILD — INTERVIEWIQ
+<p align="center">
+  <a href="https://github.com/ishika357/interviewiq">
+    <img src="https://img.shields.io/badge/PROJECT-INTERVIEWIQ-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="InterviewIQ project" />
+  </a>
+</p>🎙️ InterviewIQ — AI Interview Intelligence Platform
+Practice with purpose. Get evidence-based feedback. Improve with a plan.
+
+InterviewIQ is a Flask-based mock interview platform that helps candidates practise, evaluate their answers, and identify what to improve next.
+MODULE	WHAT IT DOES
+⚡ Adaptive interviews	Selects follow-up questions and adjusts difficulty
+🧠 Explainable evaluation	Breaks feedback into technical accuracy, relevance, quality, and communication
+🎧 Voice workflow	Transcribes recorded answers and extracts delivery metrics
+🔎 RAG knowledge assistant	Retrieves relevant knowledge for source-aware explanations
+📄 Resume-aware setup	Uses skills, projects, and education from an uploaded PDF to tailor interview context
+💻 Coding assessments	Runs coding problems against visible and hidden tests
+🗺️ Learning roadmap	Creates a personalized 7-day practice plan from detected strengths and gaps
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishika-lakshkar-a54bba3a1/">LinkedIn</a> •
-  <a href="https://github.com/ishika357">GitHub</a>
+  <a href="https://github.com/ishika357/interviewiq"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-Explore_InterviewIQ-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="Explore InterviewIQ" /></a>
+</p><details>
+  <summary><b>◈ Peek at the architecture</b></summary>```mermaid
+flowchart TD
+    A[Browser UI] --> B[Flask API]
+    B --> C[Interview Orchestrator]
+    C --> D[Adaptive Interviewer]
+    C --> E[Answer Evaluator]
+    C --> F[Speech Analytics]
+    C --> G[Resume Parser]
+    C --> H[Coding Assessment]
+    C --> I[RAG Assistant]
+    C --> J[Learning Roadmap]
+    D --> K[(SQLite)]
+    E --> K
+    F --> K
+    I --> L[Knowledge Base]
+```
+  Explore the full project documentation, including architecture, setup, tests, and engineering decisions.
+</details>◈ CURRENTLY EXPLORING
+<p align="center">
+  <img src="https://img.shields.io/badge/01-LLM_Architectures-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/02-Retrieval_Augmented_Generation-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/03-AI_Agents-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/04-Scalable_AI_Apps-A855F7?style=for-the-badge" />
+</p>◈ GITHUB SIGNAL
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ishika357&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B16&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishika357&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0B16&title_color=C084FC&text_color=E9D5FF" alt="Top languages" />
 </p>
-
----
-
-### ABOUT
-
-I'm a final-year B.Tech Computer Science and Engineering student specializing in Artificial Intelligence.
-
-My focus is on understanding and building practical AI applications, with interests in:
-
-- Artificial Intelligence & Machine Learning
-- Generative AI and Large Language Models
-- Natural Language Processing
-- Retrieval-Augmented Generation (RAG)
-- AI-powered application development
-
-I enjoy learning through experimentation, building projects, and exploring how intelligent systems can solve real-world problems.
-
-### TECHNICAL TOOLKIT
-
-**Languages & Development**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-
-**AI & Machine Learning**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-6C63FF?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-7B68EE?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-5B4BDB?style=flat-square)
-
-**Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### FEATURED PROJECT
-
-**InterviewIQ — AI Interview Intelligence Platform**
-
-An AI-powered interview preparation platform designed to provide structured interview practice, answer evaluation, speech analysis, and personalized learning recommendations.
-
-[Explore InterviewIQ →](https://github.com/ishika357/interviewiq)
-
-### CURRENTLY EXPLORING
-
-- LLM architectures and applications
-- Retrieval-Augmented Generation
-- AI agents and intelligent workflows
-- Building scalable AI-powered applications
-
-### GITHUB ACTIVITY
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishika357&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishika357&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=ishika357&theme=midnight-purple&hide_border=true&background=0D0B16&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF" alt="GitHub contribution streak" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishika357&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Learning. Building. Experimenting. Evolving.</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishika357&bg_color=0D0B16&color=C084FC&line=9333EA&point=E9D5FF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+</p><p align="center">
+  <b>CODE. CREATE. CONTRIBUTE.</b><br/>
+  <sub>Learning • Building • Evolving ✦</sub>
 </p>
